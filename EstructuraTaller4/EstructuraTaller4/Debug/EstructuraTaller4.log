@@ -1,0 +1,17 @@
+﻿  SistemaJumbottusImpl.cpp
+c:\users\aleja\desktop\estructurataller4\estructurataller4\utilidades.h(13): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\utilidades.h(25): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(77): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(123): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(146): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(152): warning C4018: '>=': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(154): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(159): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(164): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(177): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(186): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(188): warning C4018: '>': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(197): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(202): warning C4018: '<': no coinciden signed/unsigned
+c:\users\aleja\desktop\estructurataller4\estructurataller4\sistemajumbottusimpl.cpp(225): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  EstructuraTaller4.vcxproj -> C:\Users\aleja\Desktop\EstructuraTaller4\Debug\EstructuraTaller4.exe
